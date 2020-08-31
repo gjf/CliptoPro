@@ -1,0 +1,6 @@
+id=CliptoProModule
+name=Module to enable CliptoPro access to clipboard on latest Android
+version=v1
+versionCode=1
+author=Gray Jack the Fixxxer
+description=This module automatically enables CliptoPro access to clipboard on latest Android. In fact nothing will be installed - just correct permissions. Don't be surprised no new modules will appear in Magisk after that - everything should work anyway.
