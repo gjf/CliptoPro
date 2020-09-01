@@ -3,4 +3,4 @@ name=Module to enable Clipto access to clipboard on latest Android
 version=v1
 versionCode=1
 author=Gray Jack the Fixxxer
-description=This module automatically enables Clipto access to clipboard on latest Android. In fact nothing will be installed - just correct permissions.
+description=This module automatically enables Clipto access to clipboard on latest Android. In fact nothing will be installed - just correct permissions granted.
